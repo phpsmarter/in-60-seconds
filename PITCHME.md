@@ -126,7 +126,7 @@ export default HomeStack;
 ---
 
 
-#### 单个页面逻辑的组织,以登录为例
+ 单个页面逻辑的组织,以登录为例
 
 
 -  **login.state.tsx**
