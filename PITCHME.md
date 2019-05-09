@@ -1,14 +1,14 @@
 # React-Native开发技术栈 
 
-React-Naitve的技术栈结构
+React-Naitve的技术概览
 
 ---
 
 ### 语言选择:TypeScript
 
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+- 使用Interface和Type来增加类型约束
+- TypeDoc生成自动生成技术文档
+- 使用React-web结合docz生成组件说明文档
 
 ---
 
