@@ -3,7 +3,6 @@
 React-Naitve的技术概览
 
 ---
-
 ### 语言选择: TypeScript
 
 - 使用Interface和Type来增加类型约束
@@ -26,7 +25,6 @@ React-Naitve的技术概览
 
 
 --- 
-
 @snap[west span-50]
 #### 页面截图
 ![](images/tabbottomBar.png)
