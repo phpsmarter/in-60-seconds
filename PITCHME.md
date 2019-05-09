@@ -22,7 +22,7 @@ React-Naitve的技术概览
 
 @snap[east span-40 text-center]
 
-##### 页面截图
+##### 代码示意图
 ![](https://ws4.sinaimg.cn/large/006tNc79ly1g2vg53jny9j30og0tkgr9.jpg)
 
 @snapend 
