@@ -66,11 +66,18 @@ export default class LanguageLearningscreen extends React.Component<
 ![](images/docz.png)
 
 ---
-### 文件结构
+####  文件结构
 以GitPoint结构为蓝本
+使用React-Navigation组件提供的方法组织:
+@snap[west span-50]
+ ![](images/gitpoint1.png)
 
+@snapend
 
+@snap[east span-50]
+ ![](images/gitpoint2.png)
 
+@snapend
 --- 
 @snap[west span-50]
 #### 底部导航概览
