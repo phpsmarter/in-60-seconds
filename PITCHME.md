@@ -67,13 +67,16 @@ export default class LanguageLearningscreen extends React.Component<
 
 ---
 ####  文件结构
+以GitPoint结构为蓝本
+使用React-Navigation组件提供的方法组织:
 
+---
 @snap[west span-50]
-  整体组织方法
+ 整体结构
  ![](images/gitpoint1.png)
 
 @snapend
-  单个业务实现
+ 具体业务的实现
 @snap[east span-50]
  ![](images/gitpoint2.png)
 
