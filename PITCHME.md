@@ -82,3 +82,20 @@ HomeStack.navigationOptions = ({ navigation }) => {
 };
 export default HomeStack;
 ```
+
+---
+### 整个应用State下的分支逻辑组织
+
+以Redux的store为依据(稍后讲到),根据应用的State树的分支来组织页面
+
+
+@snap[west span-70]
+单个页面逻辑的组织,以登录为例
+@ul[spaced text-white]
+-  **login.state.tsx**
+-  **login.action.tsx**
+-  **login.reducer.tsx**
+-  **login.reselect.tsx**
+-  **login.ui.tsx**
+@ulend
+@snapend
