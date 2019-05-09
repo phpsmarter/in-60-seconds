@@ -11,7 +11,7 @@ React-Naitve的技术概览
 - 使用React-web结合docz生成组件说明文档
 
 ---
-[SAMBA Deployment](https://onetapbeyond.github.io/resource/img/samba/new-samba-deploy.jpg)
+![代码](https://ws4.sinaimg.cn/large/006tNc79ly1g2vg53jny9j30og0tkgr9.jpg)
 
 
 --- 
