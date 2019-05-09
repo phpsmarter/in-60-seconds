@@ -1,10 +1,10 @@
-# Flux 
+# React-Native开发技术栈 
 
-An application architecture for React
+React-Naitve的技术栈结构
 
 ---
 
-### Flux Design
+### 语言选择:TypeScript
 
 - Dispatcher: Manages Data Flow
 - Stores: Handle State & Logic
