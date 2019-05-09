@@ -27,7 +27,7 @@ React-Naitve的技术概览
 
 
 +++
-- 使用React-web结合docz生成组件说明文档
+- 使用React-Native-web 结合docz生成组件说明文档
 ![](images/docz.png)
 
 ---
