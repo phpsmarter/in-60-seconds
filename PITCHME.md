@@ -31,7 +31,7 @@ React-Naitve的技术概览
 @snapend
 
 @snap[east span-50]
-![](images/国内期货.png)
+![](images/innerPeroid.png)
 @snapend
 
 
