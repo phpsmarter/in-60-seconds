@@ -23,16 +23,18 @@ React-Naitve的技术概览
 ### 文件结构
 以GitPoint结构为蓝本
 
+
+
+--- 
+
 @snap[west span-50]
 #### 页面截图
 ![](images/tabbottomBar.png)
 @snapend
 
 @snap[east span-50]
-![](imgages/国内期货.png)
+![](images/国内期货.png)
 @snapend
-
---- 
 
 
 
