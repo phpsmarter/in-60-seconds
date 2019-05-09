@@ -124,9 +124,9 @@ export default HomeStack;
 以Redux的store为依据(稍后讲到),根据应用的State树的分支来组织页面
 
 ---
-#### 单个页面逻辑的组织,以登录为例
-@snap[west span-70]
 
+
+#### 单个页面逻辑的组织,以登录为例
 
 
 -  **login.state.tsx**
@@ -135,7 +135,6 @@ export default HomeStack;
 -  **login.reselect.tsx**
 -  **login.ui.tsx**
 
-@snapend
 
 ---
 
