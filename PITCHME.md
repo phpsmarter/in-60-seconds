@@ -76,7 +76,7 @@ export default class LanguageLearningscreen extends React.Component<
  ![](images/gitpoint1.png)
 
 @snapend
- 具体业务的实现
+ 具体业务实现
 @snap[east span-50]
  ![](images/gitpoint2.png)
 
