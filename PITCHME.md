@@ -71,16 +71,13 @@ export default class LanguageLearningscreen extends React.Component<
 使用React-Navigation组件提供的方法组织:
 
 ---
-@snap[west span-50]
- 整体结构
- ![](images/gitpoint1.png)
+整体文件结构
+![](images/gitpoint1.png)
+ 
 
-@snapend
- 具体业务实现
-@snap[east span-50]
- ![](images/gitpoint2.png)
-
-@snapend
+---
+业务结构实现文件
+![](images/gitpoint2.png)
 --- 
 @snap[west span-50]
 #### 底部导航概览
