@@ -10,13 +10,48 @@ React-Naitve应用开发的技术概览
 +++
 - 使用Interface和Type来增加类型约束
 
-```javascript
+```typescript
   export interface ILearningCategoryItem {
   name: string;
   imageUrl: string;
   total: number;
   learned: number;
 }
+```
+
++++
+```typescript
+const learningLevelData: ILeanringCategoryItem[] = [
+  {
+    name: "Food",
+    imageUrl: require("../../assets/learning/page1_icon6.png"),
+    total: 3,
+    learned: 3
+  },
+  {
+    name: "Animals",
+    imageUrl: require("../../assets/learning/page1_icon2.png"),
+    total: 5,
+    learned: 3
+  }
+]
+```
+
++++
+```typescript
+export default class LanguageLearningscreen extends React.Component<
+  LanguageLearningscreenProps,
+  LanguageLearningscreenState
+> {
+  constructor(props: LanguageLearningscreenProps) {
+    super(props);
+    this.state = {
+      learningLevelData: learningLevelData
+    };
+  }
+  render(){
+      return Component
+  }
 ```
 
 
