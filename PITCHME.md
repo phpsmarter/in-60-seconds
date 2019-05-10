@@ -171,12 +171,12 @@ export default HomeStack;
 
 单个页面逻辑的组织,以登录为例
 
-- **login.state.tsx**
-- **login.actionType.tsx**
-- **login.action.tsx**
-- **login.reducer.tsx**
-- **login.selector.tsx**
-- **login.ui.tsx**
+- login.state.tsx
+- login.actionType.tsx
+- login.action.tsx
+- login.reducer.tsx
+- login.selector.tsx
+- login.ui.tsx
 
 ---
 
