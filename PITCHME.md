@@ -7,6 +7,10 @@ React-Naitve 应用开发的技术概览
 ### 语言选择: TypeScript
 
 +++
+对于应用,根据 UI 原型图定义页面的数据结构
+![](images/item.png)
+
++++
 
 - 使用 Typescript 的 Interface 和 Type 来增加类型约束
 
@@ -203,8 +207,6 @@ export default HomeStack;
 
 #### 数据管理技术栈涵盖内容
 
-@snap[center span-80]
-
 - React-Redux:连接组件和 Redux
 - Redux-Saga: 业务流程封装 `requestData:loadingTrue->data->loadingFalse`
 - Reselect : 优化性能缓存计算数据 `f(stateBranch,cal(stateBranch))`
@@ -213,8 +215,6 @@ export default HomeStack;
 - mw1:logger `log(prevState)->f(action,prevState)->log(nextState)`
 - mw2: redux-presist 数据持久化
 - Dev-Tools : 调试工具
-
-@snapend
 
 ---
 
